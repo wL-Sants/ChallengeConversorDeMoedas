@@ -15,10 +15,6 @@ O **Conversor de Moedas** oferece as seguintes conversões:
 - **Dólar (USD) ⇄ Peso Colombiano (COP)**
 - **Peso Colombiano (COP) ⇄ Dólar (USD)**
 
-🔢 **Precisão:** O valor convertido é exibido com até **duas casas decimais**.
-
-🖥️ **Interface de Linha de Comando:** O programa oferece uma interface interativa para facilitar a navegação.
-
 ---
 
 ## 💻 **Tecnologias Usadas**
