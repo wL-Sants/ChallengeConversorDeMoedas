@@ -1,24 +1,34 @@
-Conversor de Moedas em Java
-Este projeto é um Conversor de Moedas desenvolvido em Java, que permite converter valores entre diferentes moedas, como Dólar (USD), Real Brasileiro (BRL), Peso Argentino (ARS) e Peso Colombiano (COP). O programa oferece um menu interativo onde o usuário pode selecionar as conversões desejadas.
+# 🌍 **Conversor de Moedas em Java**
 
-Funcionalidades
-Converte entre as seguintes moedas:
+**O projeto Conversor de Moedas em Java** oferece uma solução simples e prática para conversão de valores entre diferentes moedas. Com uma interface interativa, você pode facilmente converter entre **Dólar (USD)**, **Real Brasileiro (BRL)**, **Peso Argentino (ARS)** e **Peso Colombiano (COP)**. 
 
-Dólar (USD) ⇄ Peso Argentino (ARS)
+---
 
-Peso Argentino (ARS) ⇄ Dólar (USD)
+## 🛠️ **Funcionalidades**
 
-Dólar (USD) ⇄ Real Brasileiro (BRL)
+O **Conversor de Moedas** oferece as seguintes conversões:
 
-Real Brasileiro (BRL) ⇄ Dólar (USD)
+- **Dólar (USD) ⇄ Peso Argentino (ARS)**
+- **Peso Argentino (ARS) ⇄ Dólar (USD)**
+- **Dólar (USD) ⇄ Real Brasileiro (BRL)**
+- **Real Brasileiro (BRL) ⇄ Dólar (USD)**
+- **Dólar (USD) ⇄ Peso Colombiano (COP)**
+- **Peso Colombiano (COP) ⇄ Dólar (USD)**
 
-Dólar (USD) ⇄ Peso Colombiano (COP)
+🔢 **Precisão:** O valor convertido é exibido com até **duas casas decimais**.
 
-Peso Colombiano (COP) ⇄ Dólar (USD)
+🖥️ **Interface de Linha de Comando:** O programa oferece uma interface interativa para facilitar a navegação.
 
-Exibe o valor convertido com precisão de até duas casas decimais.
+---
 
-Interface de linha de comando interativa.
+## 💻 **Tecnologias Usadas**
 
-Tecnologias Usadas
-Java 21 (ou a versão que você estiver usando no projeto)
+- **Java 21** (ou a versão mais recente que você esteja utilizando no projeto)
+
+---
+
+## 📥 **Como Usar**
+
+1. Clone o repositório.
+2. Compile e execute o projeto usando sua IDE preferida ou pelo terminal.
+3. Siga as instruções interativas para escolher as moedas e obter o valor convertido.
